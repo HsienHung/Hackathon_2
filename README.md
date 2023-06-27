@@ -56,10 +56,10 @@ How to Play **PokeGo**:
 1.	Launch the Game: Begin your Pokemon adventure by launching the PokeGo game.
    
 2.	Navigate the main menu: As you launch the game, find yourself greeted by the vibrant main menu, offering a gateway to a world of endless possibilities.
--	Start New Game: Begin your thrilling adventure by selecting the "New Game" option. Create your unique player profile, choosing a name that will forever be associated with your Pokémon prowess. Your journey will commence in the fiery embrace of Lavaridge Town, the default starting city.
--	Load Game: Have you ventured before into the world of **PokeGo**? Select the "Load Game" option to rekindle your previous progress and continue your legendary quest.
--	Save Game: Don't forget to safeguard your progress by choosing the "Save Game" option. This ensures that your achievements, rare Pokemon, and hard-earned items are securely stored, ready for your triumphant return.
--	Exit Game: Should you wish to pause your adventure for now, select "Exit Game" knowing that your heroic journey will be eagerly awaiting your return.
+-	***Start New Game***: Begin your thrilling adventure by selecting the "New Game" option. Create your unique player profile, choosing a name that will forever be associated with your Pokémon prowess. Your journey will commence in the fiery embrace of Lavaridge Town, the default starting city.
+-	***Load Game***: Have you ventured before into the world of **PokeGo**? Select the "Load Game" option to rekindle your previous progress and continue your legendary quest.
+-	***Save Game***: Don't forget to safeguard your progress by choosing the "Save Game" option. This ensures that your achievements, rare Pokemon, and hard-earned items are securely stored, ready for your triumphant return.
+-	***Exit Game***: Should you wish to pause your adventure for now, select "Exit Game" knowing that your heroic journey will be eagerly awaiting your return.
 
 3.	Explore Vibrant Cities: Immerse yourself in the charm and wonder of six distinct cities: Lavaridge Town, Eterna City, Mossdeep City, Vermilion City, Driftveil City, and Blackthorn City. Each city teems with its own unique atmosphere, mysteries to unravel, and Pokemon waiting to be discovered.
 
