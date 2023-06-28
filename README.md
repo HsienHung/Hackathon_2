@@ -9,7 +9,6 @@
 ![Screenshot (65)](https://github.com/HsienHung/Hackathon_2/assets/96227834/6476ce86-b611-4e9d-a670-e2cc55c787ea)
 ![Screenshot (64)](https://github.com/HsienHung/Hackathon_2/assets/96227834/9736721c-e526-4eb8-99a4-b604cfa97993)
 ![Screenshot (63)](https://github.com/HsienHung/Hackathon_2/assets/96227834/2a7a94de-8b81-4232-9d1c-8f2276b31158)
-![Uploading Screenshot (62).png…]()
 ![Screenshot (61)](https://github.com/HsienHung/Hackathon_2/assets/96227834/74f7d8ef-f724-4397-a8aa-9f528ebdf252)
 ![Screenshot (60)](https://github.com/HsienHung/Hackathon_2/assets/96227834/ac35cc28-5bfa-496e-b9f6-2c6b317d2025)
 ![Screenshot (59)](https://github.com/HsienHung/Hackathon_2/assets/96227834/aa3b03eb-7f35-4c6b-bcca-bfd7e784c5b0)
