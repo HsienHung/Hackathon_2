@@ -1,3 +1,40 @@
+![Screenshot (73)](https://github.com/HsienHung/Hackathon_2/assets/96227834/37ace961-d8bd-4977-b5dc-6b7b76d533f0)
+![Screenshot (72)](https://github.com/HsienHung/Hackathon_2/assets/96227834/574faca3-f078-451f-8c59-e9d3246adad7)
+![Screenshot (71)](https://github.com/HsienHung/Hackathon_2/assets/96227834/88f5af19-2129-41c8-830d-1b661e343ff7)
+![Screenshot (70)](https://github.com/HsienHung/Hackathon_2/assets/96227834/66a12f92-e0c9-46e2-99e8-574180b81899)
+![Screenshot (69)](https://github.com/HsienHung/Hackathon_2/assets/96227834/075edda1-762a-474c-ab4c-f0f4ca2560d5)
+![Screenshot (68)](https://github.com/HsienHung/Hackathon_2/assets/96227834/41debd93-0412-4768-99dc-02881823b1b7)
+![Screenshot (67)](https://github.com/HsienHung/Hackathon_2/assets/96227834/e5d01726-cc09-4dad-8c84-c215d61a9603)
+![Screenshot (66)](https://github.com/HsienHung/Hackathon_2/assets/96227834/92d475c9-7847-4050-be3e-042fec29f5b4)
+![Screenshot (65)](https://github.com/HsienHung/Hackathon_2/assets/96227834/6476ce86-b611-4e9d-a670-e2cc55c787ea)
+![Screenshot (64)](https://github.com/HsienHung/Hackathon_2/assets/96227834/9736721c-e526-4eb8-99a4-b604cfa97993)
+![Screenshot (63)](https://github.com/HsienHung/Hackathon_2/assets/96227834/2a7a94de-8b81-4232-9d1c-8f2276b31158)
+![Uploading Screenshot (62).png…]()
+![Screenshot (61)](https://github.com/HsienHung/Hackathon_2/assets/96227834/74f7d8ef-f724-4397-a8aa-9f528ebdf252)
+![Screenshot (60)](https://github.com/HsienHung/Hackathon_2/assets/96227834/ac35cc28-5bfa-496e-b9f6-2c6b317d2025)
+![Screenshot (59)](https://github.com/HsienHung/Hackathon_2/assets/96227834/aa3b03eb-7f35-4c6b-bcca-bfd7e784c5b0)
+![Screenshot (58)](https://github.com/HsienHung/Hackathon_2/assets/96227834/1cfe6941-5d4e-4e59-b034-f91ab262a26a)
+![Screenshot (57)](https://github.com/HsienHung/Hackathon_2/assets/96227834/71ca073d-1336-4fb1-8d8e-68d9994bfbd3)
+![Screenshot (56)](https://github.com/HsienHung/Hackathon_2/assets/96227834/7f5c45cb-5809-4874-8a38-1b083f9f2981)
+![Screenshot (55)](https://github.com/HsienHung/Hackathon_2/assets/96227834/bc978c26-634b-440a-99d6-2e89bd798c8d)
+![Screenshot (54)](https://github.com/HsienHung/Hackathon_2/assets/96227834/9dc2c93f-634a-4696-8c1d-a9e6a320d7d1)
+![Screenshot (53)](https://github.com/HsienHung/Hackathon_2/assets/96227834/a9fa99af-4c42-42ba-8722-8a0c0a78ec36)
+![Screenshot (52)](https://github.com/HsienHung/Hackathon_2/assets/96227834/c188dd41-28a6-431e-a9bf-830d229c2f46)
+![Screenshot (51)](https://github.com/HsienHung/Hackathon_2/assets/96227834/db3d9493-53d4-4ae3-a9cc-57cb287be062)
+![Screenshot (50)](https://github.com/HsienHung/Hackathon_2/assets/96227834/f5df7cc0-143e-4b66-8384-5b67e1ad894d)
+![Screenshot (49)](https://github.com/HsienHung/Hackathon_2/assets/96227834/2e05c490-5df7-4f70-b932-64e764bffde8)
+![Screenshot (48)](https://github.com/HsienHung/Hackathon_2/assets/96227834/1e9d26cd-efe6-4a84-bc41-68ab7fdae4bc)
+![Screenshot (47)](https://github.com/HsienHung/Hackathon_2/assets/96227834/df49ea60-4833-4fc6-ad43-95eae4bc0b42)
+![Uploading Screenshot (46).png…]()
+![Screenshot (45)](https://github.com/HsienHung/Hackathon_2/assets/96227834/ca676a1f-06e5-4d86-b57e-734cf027bbc7)
+![Screenshot (44)](https://github.com/HsienHung/Hackathon_2/assets/96227834/71d2ba30-0781-441a-9446-41dc9c84342b)
+![Screenshot (43)](https://github.com/HsienHung/Hackathon_2/assets/96227834/753967fa-da76-408d-8db5-6e00c56691a8)
+![Screenshot (42)](https://github.com/HsienHung/Hackathon_2/assets/96227834/6ab440b4-c724-4a33-941e-fe62bb373541)
+![Screenshot (41)](https://github.com/HsienHung/Hackathon_2/assets/96227834/a0f06787-ef43-4e0b-b9c6-1b955bc87c9a)
+![Screenshot (38)](https://github.com/HsienHung/Hackathon_2/assets/96227834/49635af8-f79a-4342-ba8c-f103cc8c20a6)
+![Screenshot (37)](https://github.com/HsienHung/Hackathon_2/assets/96227834/3e499a7b-4215-4ab9-9094-76921b47964f)
+![Screenshot (36)](https://github.com/HsienHung/Hackathon_2/assets/96227834/d7be39f3-3a21-4bfa-8d13-ab45e0f75468)
+![Screenshot (35)](https://github.com/HsienHung/Hackathon_2/assets/96227834/fa57abba-9873-494a-aa23-33b9b9263985)
 # Hackathon_2 Group 18
 ## Game Description
 Title: **PokeGo**
@@ -197,6 +234,13 @@ The linked list structure enables efficient retrieval and display of Pokémon ba
 
 Overall, linked lists play a crucial role in the game by providing a dynamic and efficient data structure for managing various collections of objects. Whether it's the inventory, Pokémon collection, map cities, or Pokémon information, linked lists enable dynamic updates, efficient traversal, and easy access to the relevant data, enhancing the overall gameplay experience.
 ## Screenshots of the game.
+
+![Screenshot (32)](https://github.com/HsienHung/Hackathon_2/assets/96227834/647e857b-bfed-4991-baa1-cf5d276fb402)
+![Uploading Screenshot (32) - Copy.png…]()
+![Uploading Screenshot (33).png…]()
+![Uploading Screenshot (34).png…]()
+![Uploading Screenshot (39).png…]()
+![Uploading Screenshot (40).png…]()
 
 
 ![download](https://github.com/HsienHung/Hackathon_2/assets/96227834/74c57a6f-acb8-4f46-b3b5-232ef1540dcf)
