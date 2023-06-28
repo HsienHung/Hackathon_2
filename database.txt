@@ -1,0 +1,6 @@
+Inventory Linked List:
+Item 1:
+Name: EnergyWave Blast
+Quantity: 1
+Description: Restores a Pokemon's Energy by 50 points.
+
