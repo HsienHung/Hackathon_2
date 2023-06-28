@@ -86,6 +86,7 @@ In this game, encapsulation is utilized in multiple classes, such as **Battle**,
 
 For instance, in **Battle** class as an example to explain encapsulation in detail:
 ![Screenshot 2023-06-28 141217](https://github.com/HsienHung/Hackathon_2/assets/96227834/4a0df064-5e2d-4e8e-b326-b493fd0ec31e)
+
 In this class, the private member variables (***type, name, HP, energy, attack, normalAttack, skill1, skill2, level, exp, damage, MyHP, faintedPokemon***) are encapsulated within the class, meaning they are only accessible from within the class itself. These private member variables cannot be directly accessed or modified from outside the class. This protects the internal state and implementation details of the **Battle** class from external interference. 
 
 To interact with these private member variables, the **Battle** class provides public member functions, which serve as the interface to access and manipulate the encapsulated data. These public member functions can be used by other parts of the code or external classes to perform operations on the **Battle** objects.
@@ -172,10 +173,6 @@ By utilizing composition, the game code achieves a modular and flexible structur
 It is worth noting that composition is different from inheritance. While inheritance establishes an "is-a" relationship between classes (e.g., a subclass is a type of its superclass), composition establishes a "has-a" relationship (e.g., a class has instances of another class as its members). Composition allows for greater flexibility, as objects can be composed of different components, whereas inheritance binds classes in a more rigid hierarchy.
 
 Overall, composition in the game code enhances code modularity, reusability, and flexibility by allowing objects to be composed of other objects, facilitating the creation of complex systems and promoting a modular design approach.
-
-
-
-
 
 ## How linked lists play a role in the game.
 ## Screenshots of the game.
