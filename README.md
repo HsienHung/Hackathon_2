@@ -175,6 +175,27 @@ It is worth noting that composition is different from inheritance. While inherit
 Overall, composition in the game code enhances code modularity, reusability, and flexibility by allowing objects to be composed of other objects, facilitating the creation of complex systems and promoting a modular design approach.
 
 ## How linked lists play a role in the game.
+1. Inventory Class:
+The **Inventory** class represents a player's inventory, which stores various items they acquire during the game. The inventory is implemented as a singly linked list. Each item in the inventory is represented by a node (**Node** struct) containing information such as the item's name, quantity, and description. The **Inventory** class has a pointer to the head of the linked list, denoted by the **head** member variable. This allows for efficient insertion, deletion, and traversal of inventory items.
+
+The linked list structure enables adding new items to the inventory by creating a new node and updating the appropriate pointers. It also allows for removing items by adjusting the pointers to bypass the node representing the item to be removed. Traversing the linked list allows the game to display the inventory items and perform operations on them, such as using or manipulating specific items.
+
+2. Pokemon Class:
+The **Pokemon** class represents a player's collection of Pokémon. The collection is stored as a linked list, where each node (**pokemonList** struct) corresponds to a Pokémon. Each node holds information about a Pokémon, including its name, type, level, HP, energy, attack, and experience points (EXP). The linked list structure allows for dynamic management of the Pokémon collection, enabling additions, removals, and traversals.
+
+The linked list facilitates the addition of new Pokémon to the collection by creating a new node and adjusting the appropriate pointers. It also allows for removing Pokémon by updating the pointers to bypass the node representing the Pokémon to be removed. Traversing the linked list enables various operations on the Pokémon, such as displaying their information, initiating battles, or performing actions related to the player's Pokémon.
+
+3. Map Class:
+The **Map** class represents the game's map, which consists of a sequence of cities. The cities are stored as nodes in a linked list. Each node (**Node** struct) contains a **City** object and a pointer to the next city in the sequence. The linked list structure allows for easy traversal between cities by following the pointers.
+
+When a player visits a city, the game can access the information stored within the **City** object encapsulated in the linked list node. The linked list structure facilitates navigating the map, determining the current city, and providing options for the player to choose the next destination.
+
+4. Pokedex Class:
+The **Pokedex** class manages information about different Pokémon types and their associated Pokémon. Each type of Pokémon is represented by a separate linked list. The linked list is implemented using the **TypeNode** struct, where each node holds the name of the Pokémon type and a pointer to a linked list of Pokémon of that type (**PokemonInfo** struct).
+
+The linked list structure enables efficient retrieval and display of Pokémon based on their types. When the game needs to display Pokémon of a specific type, it can traverse the linked list corresponding to that type and access the information stored in each node. This allows for presenting the player with relevant Pokémon information, such as their names, HP, energy, attack, and skills.
+
+Overall, linked lists play a crucial role in the game by providing a dynamic and efficient data structure for managing various collections of objects. Whether it's the inventory, Pokémon collection, map cities, or Pokémon information, linked lists enable dynamic updates, efficient traversal, and easy access to the relevant data, enhancing the overall gameplay experience.
 ## Screenshots of the game.
 
 ![download](https://github.com/HsienHung/Hackathon_2/assets/96227834/74c57a6f-acb8-4f46-b3b5-232ef1540dcf)
