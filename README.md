@@ -81,6 +81,102 @@ How to Play **PokeGo**:
 Embark on an epic journey, capturing and training a diverse team of Pokemon, conquering dungeons, and facing legendary bosses to become the ultimate Pokemon Master. The world of **PokeGo** awaits your arrival. Are you ready to step into this immersive world and fulfil your destiny?
 
 ## How object-oriented concepts were used to develop the game.
+### Encapsulation
+In this game, encapsulation is utilized in multiple classes, such as **Battle**, **City**, **DungeonExplorere**, **Game**, **GameList**, **Inventory**, **LordMayor**, **Map**, **Pokedex**, **Pokemon**, and **Shop**.
+
+For instance, in **Battle** class as an example to explain encapsulation in detail:
+![Screenshot 2023-06-28 141217](https://github.com/HsienHung/Hackathon_2/assets/96227834/4a0df064-5e2d-4e8e-b326-b493fd0ec31e)
+In this class, the private member variables (***type, name, HP, energy, attack, normalAttack, skill1, skill2, level, exp, damage, MyHP, faintedPokemon***) are encapsulated within the class, meaning they are only accessible from within the class itself. These private member variables cannot be directly accessed or modified from outside the class. This protects the internal state and implementation details of the **Battle** class from external interference. 
+
+To interact with these private member variables, the **Battle** class provides public member functions, which serve as the interface to access and manipulate the encapsulated data. These public member functions can be used by other parts of the code or external classes to perform operations on the **Battle** objects.
+
+For example, the **Battle** class has public member functions like ****setType, setName, setHP, setEnergy, setAttack, setNormalAttack, setSkill1, setSkill2, enemyStatus, battleStart, enemyDamage, and bossStatus***. These functions allow external code to set the values of the private member variables or perform specific actions related to the battle.
+
+By encapsulating the member variables and providing controlled access through member functions, encapsulation achieves several benefits:
+
+1. Data hiding: The private member variables are hidden from external code, preventing direct modification and ensuring that data can only be accessed through designated methods. This protects the integrity of the data and prevents unauthorized modifications.
+
+2. Encapsulation of behaviour: The member functions to encapsulate the behaviour or operations that can be performed on the data. They provide a clear and controlled interface for interacting with the encapsulated data. This helps in maintaining consistency and enforcing business rules or constraints.
+
+3. Modularity and code organization: Encapsulating related data and functionality within a class promotes modularity and code organization. Each class becomes a self-contained unit responsible for its own state and behaviour, leading to a more manageable and maintainable code.
+
+4. Information hiding: Encapsulation allows the internal implementation details of a class to be hidden, providing a higher level of abstraction. The external code only needs to know how to use the public interface of the class, without worrying about the internal details. This improves code maintainability and reduces dependencies.
+
+In summary, encapsulation in the provided code ensures that the internal data and implementation of classes are hidden and can only be accessed and modified through well-defined public member functions. This promotes data integrity, code organization, modularity, and information hiding, leading to more robust and maintainable code.
+
+### Abstraction
+In this PokeGo game, abstraction is used to represent various entities and concepts in a simplified manner. Below are some of the abstraction used in different classes:
+
+1. **Pokemon** class:
+The Pokemon class represents a Pokemon character in the game. It encapsulates properties like the Pokemon's name, type, level, HP, energy, attack, skills, and experience points (EXP). It provides methods for displaying the Pokemon's information, starting battles, setting HP and EXP, and other related operations.
+
+The **Pokemon** class abstracts away the complex details of a Pokemon character, such as its genetic traits, complex combat mechanics, and evolutionary stages. It focuses on providing a simplified representation of a Pokemon that captures the necessary attributes and behaviour for the game's purposes.
+
+2. **Map** class:
+The **Map** class represents the game map, which consists of various cities. It abstracts the details of the underlying geographical data and focuses on providing a simplified representation of cities as nodes on the map. Each city is encapsulated within a **City** object, which holds the city's name and provides methods to visit the city and retrieve its name.
+
+The **Map** class allows players to choose cities and navigate through the game world without worrying about the intricate details of the map's implementation. It abstracts away the complexity of geographical coordinates, distances between cities, and map rendering. 
+
+3. **Inventory** class:
+The **Inventory** class represents the player's inventory in the game. It encapsulates the items the player possesses, such as catching items, healing items, and other miscellaneous items. The class provides methods for managing and using these items, such as adding items, displaying the inventory, using catching items, and using general items.
+
+The **Inventory** class abstracts the details of item storage, tracking quantities, and managing various item interactions. It simplifies the inventory system by providing a high-level interface for item management.  
+
+4. **Battle** class:
+The **Battle** class represents a battle between Pokémon characters. It encapsulates properties like the type, name, HP, energy, attack, and skills of the battling Pokemon. It provides methods for starting battles, inflicting damage, checking enemy status, and displaying battle-related information.
+
+The Battle class abstracts away the intricacies of combat mechanics, move calculations, and complex decision-making algorithms. It focuses on providing a simplified interface for initiating battles and performing basic battle operations.
+
+In each of these examples, abstraction is used to simplify the representation and interaction of complex entities or systems. It allows the game code to operate at a higher level of abstraction, focusing on essential features and providing a more intuitive and manageable interface for the players and developers.
+
+By abstracting away unnecessary details and complexity, abstraction enhances code maintainability, readability, and modularity. It allows different parts of the game to interact through well-defined interfaces without exposing the underlying complexities. Additionally, abstraction enables easier extensibility and adaptability to changes in the game design or requirements.
+
+### Modularity
+Based on the PokeGo game we created, modularity is employed to organize the functionality into separate modules or classes, each responsible for a specific aspect of the game. Below are some of the examples of modularity applied in different class:
+
+1. **Pokemon** class:
+The **Pokemon** class encapsulates the properties and behaviour of a Pokemon character. It focuses on the functionalities related to managing and representing individual Pokemon, such as setting HP, energy, attack, and skills. It provides methods for displaying Pokemon information, initiating battles, and updating the Pokemon's attributes.
+
+2. **Map** class:
+Besides, the **Map** class represents the game map and cities. It is responsible for managing the cities and their relationships. It provides methods for appending new cities, displaying the map, and allowing players to choose cities for exploration. It abstracts the map-related functionality into a modular unit.
+
+3. **Inventory** class:
+The **Inventory** class handles the player's inventory. It manages the items, and their quantities, and provides methods for adding items, using items, and displaying the inventory. It encapsulates the inventory-related functionality into a separate module, promoting code organization and reusability.
+
+ 4. **Battle** class:
+The **Battle** class is responsible for managing battles between Pokémon characters. It handles battle-related operations such as initiating battles, inflicting damage, checking enemy status, and displaying battle information. It encapsulates the battle functionality, making it modular and independent of other parts of the game.
+
+5. **Shop** class:
+The **Shop** class represents the in-game shop where players can purchase items. It handles the functionalities related to the shop, such as managing coins, buying items, and playing the gacha mini-game. It encapsulates the shop-related functionality into a separate module, promoting code modularity and reusability.
+
+Each class/module focuses on a specific aspect of the game and provides well-defined interfaces for interaction with other parts of the system. This modular design allows developers to work on different modules independently, facilitates code reuse, and simplifies maintenance and debugging.
+
+Furthermore, the modular structure enables easy extensibility and scalability. New features or functionalities can be added by introducing new modules or extending existing ones without impacting the entire system. It also promotes code organization, making it easier to understand and navigate the codebase.
+
+Overall, modularity in the game code enhances code maintainability, reusability, and flexibility, making it easier to develop, test, and evolve the game.
+
+### Composition
+In the PokeGo game code, composition is used in several classes to represent the relationships between different components of the game. Below are some examples of composition:
+
+1. **DungeonExplorer** class:
+The **DungeonExplorer** class composes several objects within it, including instances of ***Pokedex, Battle, Pokemon, and Inventory***. These objects are declared as member variables and are instantiated within the class. By composing these objects, the **DungeonExplorer** class can utilize their functionalities and delegate specific tasks to them. For example, it can interact with the **Pokedex** to generate and display Pokemon information or initiate battles using the **Battle** object.
+
+2. **Game** class:
+The **Game** class demonstrates composition by containing objects such as ***Inventory, Map, Pokemon, Shop, and GameList***. These objects are composed within the **Game** class to represent various aspects of the game. For instance, the **Inventory** object handles the player's inventory, the **Map** object manages the game map, and the **Shop** object represents the in-game shop. By composing these objects, the **Game** class can coordinate their functionalities and provide a cohesive game experience.
+
+3. **LordMayor** class:
+The **LordMayor** class showcases composition by including references to objects such as ***Battle, Pokedex, Pokemon, and Inventory***. These objects are passed to the **LordMayor** class constructor and stored as member variables. The class can then access and utilize the functionalities of these composed objects to perform specific actions. For example, the **LordMayor** class can utilize the **Battle** object to initiate battles, access the **Pokedex** for Pokemon information, and interact with the player's **Inventory**.
+
+By utilizing composition, the game code achieves a modular and flexible structure. Each class represents a specific functionality, and objects are composed together to create a cohesive and interconnected system. Composition allows for the separation of concerns, as each object focuses on its specific responsibilities, promoting code organization, reusability, and maintainability.
+
+It is worth noting that composition is different from inheritance. While inheritance establishes an "is-a" relationship between classes (e.g., a subclass is a type of its superclass), composition establishes a "has-a" relationship (e.g., a class has instances of another class as its members). Composition allows for greater flexibility, as objects can be composed of different components, whereas inheritance binds classes in a more rigid hierarchy.
+
+Overall, composition in the game code enhances code modularity, reusability, and flexibility by allowing objects to be composed of other objects, facilitating the creation of complex systems and promoting a modular design approach.
+
+
+
+
+
 ## How linked lists play a role in the game.
 ## Screenshots of the game.
 
