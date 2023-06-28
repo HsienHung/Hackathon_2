@@ -198,6 +198,7 @@ The linked list structure enables efficient retrieval and display of Pokémon ba
 Overall, linked lists play a crucial role in the game by providing a dynamic and efficient data structure for managing various collections of objects. Whether it's the inventory, Pokémon collection, map cities, or Pokémon information, linked lists enable dynamic updates, efficient traversal, and easy access to the relevant data, enhancing the overall gameplay experience.
 ## Screenshots of the game.
 
+
 ![download](https://github.com/HsienHung/Hackathon_2/assets/96227834/74c57a6f-acb8-4f46-b3b5-232ef1540dcf)
 ## Link to a game demo video.
 ## .h file
