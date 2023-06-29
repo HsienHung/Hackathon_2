@@ -264,9 +264,6 @@ Overall, linked lists play a crucial role in the game by providing a dynamic and
 ![Screenshot (63)](https://github.com/HsienHung/Hackathon_2/assets/96227834/97038abc-7f8b-47d5-ade1-e26d40a4d2ed)
 
 
-
-
-
 ## Link to a game demo video.
 https://youtu.be/ksZhjoXKVP0
 
