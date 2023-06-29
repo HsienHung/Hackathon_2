@@ -1,39 +1,3 @@
-![Screenshot (73)](https://github.com/HsienHung/Hackathon_2/assets/96227834/37ace961-d8bd-4977-b5dc-6b7b76d533f0)
-![Screenshot (72)](https://github.com/HsienHung/Hackathon_2/assets/96227834/574faca3-f078-451f-8c59-e9d3246adad7)
-![Screenshot (71)](https://github.com/HsienHung/Hackathon_2/assets/96227834/88f5af19-2129-41c8-830d-1b661e343ff7)
-![Screenshot (70)](https://github.com/HsienHung/Hackathon_2/assets/96227834/66a12f92-e0c9-46e2-99e8-574180b81899)
-![Screenshot (69)](https://github.com/HsienHung/Hackathon_2/assets/96227834/075edda1-762a-474c-ab4c-f0f4ca2560d5)
-![Screenshot (68)](https://github.com/HsienHung/Hackathon_2/assets/96227834/41debd93-0412-4768-99dc-02881823b1b7)
-![Screenshot (67)](https://github.com/HsienHung/Hackathon_2/assets/96227834/e5d01726-cc09-4dad-8c84-c215d61a9603)
-![Screenshot (66)](https://github.com/HsienHung/Hackathon_2/assets/96227834/92d475c9-7847-4050-be3e-042fec29f5b4)
-![Screenshot (65)](https://github.com/HsienHung/Hackathon_2/assets/96227834/6476ce86-b611-4e9d-a670-e2cc55c787ea)
-![Screenshot (64)](https://github.com/HsienHung/Hackathon_2/assets/96227834/9736721c-e526-4eb8-99a4-b604cfa97993)
-![Screenshot (63)](https://github.com/HsienHung/Hackathon_2/assets/96227834/2a7a94de-8b81-4232-9d1c-8f2276b31158)
-![Screenshot (61)](https://github.com/HsienHung/Hackathon_2/assets/96227834/74f7d8ef-f724-4397-a8aa-9f528ebdf252)
-![Screenshot (60)](https://github.com/HsienHung/Hackathon_2/assets/96227834/ac35cc28-5bfa-496e-b9f6-2c6b317d2025)
-![Screenshot (59)](https://github.com/HsienHung/Hackathon_2/assets/96227834/aa3b03eb-7f35-4c6b-bcca-bfd7e784c5b0)
-![Screenshot (58)](https://github.com/HsienHung/Hackathon_2/assets/96227834/1cfe6941-5d4e-4e59-b034-f91ab262a26a)
-![Screenshot (57)](https://github.com/HsienHung/Hackathon_2/assets/96227834/71ca073d-1336-4fb1-8d8e-68d9994bfbd3)
-![Screenshot (56)](https://github.com/HsienHung/Hackathon_2/assets/96227834/7f5c45cb-5809-4874-8a38-1b083f9f2981)
-![Screenshot (55)](https://github.com/HsienHung/Hackathon_2/assets/96227834/bc978c26-634b-440a-99d6-2e89bd798c8d)
-![Screenshot (54)](https://github.com/HsienHung/Hackathon_2/assets/96227834/9dc2c93f-634a-4696-8c1d-a9e6a320d7d1)
-![Screenshot (53)](https://github.com/HsienHung/Hackathon_2/assets/96227834/a9fa99af-4c42-42ba-8722-8a0c0a78ec36)
-![Screenshot (52)](https://github.com/HsienHung/Hackathon_2/assets/96227834/c188dd41-28a6-431e-a9bf-830d229c2f46)
-![Screenshot (51)](https://github.com/HsienHung/Hackathon_2/assets/96227834/db3d9493-53d4-4ae3-a9cc-57cb287be062)
-![Screenshot (50)](https://github.com/HsienHung/Hackathon_2/assets/96227834/f5df7cc0-143e-4b66-8384-5b67e1ad894d)
-![Screenshot (49)](https://github.com/HsienHung/Hackathon_2/assets/96227834/2e05c490-5df7-4f70-b932-64e764bffde8)
-![Screenshot (48)](https://github.com/HsienHung/Hackathon_2/assets/96227834/1e9d26cd-efe6-4a84-bc41-68ab7fdae4bc)
-![Screenshot (47)](https://github.com/HsienHung/Hackathon_2/assets/96227834/df49ea60-4833-4fc6-ad43-95eae4bc0b42)
-![Uploading Screenshot (46).png…]()
-![Screenshot (45)](https://github.com/HsienHung/Hackathon_2/assets/96227834/ca676a1f-06e5-4d86-b57e-734cf027bbc7)
-![Screenshot (44)](https://github.com/HsienHung/Hackathon_2/assets/96227834/71d2ba30-0781-441a-9446-41dc9c84342b)
-![Screenshot (43)](https://github.com/HsienHung/Hackathon_2/assets/96227834/753967fa-da76-408d-8db5-6e00c56691a8)
-![Screenshot (42)](https://github.com/HsienHung/Hackathon_2/assets/96227834/6ab440b4-c724-4a33-941e-fe62bb373541)
-![Screenshot (41)](https://github.com/HsienHung/Hackathon_2/assets/96227834/a0f06787-ef43-4e0b-b9c6-1b955bc87c9a)
-![Screenshot (38)](https://github.com/HsienHung/Hackathon_2/assets/96227834/49635af8-f79a-4342-ba8c-f103cc8c20a6)
-![Screenshot (37)](https://github.com/HsienHung/Hackathon_2/assets/96227834/3e499a7b-4215-4ab9-9094-76921b47964f)
-![Screenshot (36)](https://github.com/HsienHung/Hackathon_2/assets/96227834/d7be39f3-3a21-4bfa-8d13-ab45e0f75468)
-![Screenshot (35)](https://github.com/HsienHung/Hackathon_2/assets/96227834/fa57abba-9873-494a-aa23-33b9b9263985)
 # Hackathon_2 Group 18
 ## Game Description
 Title: **PokeGo**
@@ -232,17 +196,77 @@ The **Pokedex** class manages information about different Pokémon types and the
 The linked list structure enables efficient retrieval and display of Pokémon based on their types. When the game needs to display Pokémon of a specific type, it can traverse the linked list corresponding to that type and access the information stored in each node. This allows for presenting the player with relevant Pokémon information, such as their names, HP, energy, attack, and skills.
 
 Overall, linked lists play a crucial role in the game by providing a dynamic and efficient data structure for managing various collections of objects. Whether it's the inventory, Pokémon collection, map cities, or Pokémon information, linked lists enable dynamic updates, efficient traversal, and easy access to the relevant data, enhancing the overall gameplay experience.
+
 ## Screenshots of the game.
 
-![Screenshot (32)](https://github.com/HsienHung/Hackathon_2/assets/96227834/647e857b-bfed-4991-baa1-cf5d276fb402)
-![Uploading Screenshot (32) - Copy.png…]()
-![Uploading Screenshot (33).png…]()
-![Uploading Screenshot (34).png…]()
-![Uploading Screenshot (39).png…]()
-![Uploading Screenshot (40).png…]()
+![Screenshot (32) - Copy](https://github.com/HsienHung/Hackathon_2/assets/96227834/42bcae82-686f-40e3-9839-c45aab76f255)
+
+![Screenshot (33)](https://github.com/HsienHung/Hackathon_2/assets/96227834/e093bb17-4797-414a-b0c5-4c0e8ba937b8)
+
+![Screenshot (34)](https://github.com/HsienHung/Hackathon_2/assets/96227834/db36135d-a898-4ac4-8541-1a891dfc374d)
+
+![Screenshot (35)](https://github.com/HsienHung/Hackathon_2/assets/96227834/d9365586-46e4-4e4b-bd36-dc0335c55944)
+
+![Screenshot (36)](https://github.com/HsienHung/Hackathon_2/assets/96227834/e82cd0b1-e839-4baa-8088-d848575f772b)
+
+![Screenshot (37)](https://github.com/HsienHung/Hackathon_2/assets/96227834/ddd34b32-b00a-4bf8-bb0a-79ebe6dd0bd0)
+
+![Screenshot (38)](https://github.com/HsienHung/Hackathon_2/assets/96227834/a73258da-3095-4921-8be2-7916c79d93e9)
+
+![Screenshot (39)](https://github.com/HsienHung/Hackathon_2/assets/96227834/a00430a2-dcb7-41f0-b763-b05bb561c7b9)
+
+![Screenshot (40)](https://github.com/HsienHung/Hackathon_2/assets/96227834/b6ecba74-0291-4d91-a669-cb15239ced21)
+
+![Screenshot (41)](https://github.com/HsienHung/Hackathon_2/assets/96227834/3087cb77-b7cc-49cd-9e40-7076df3aad7a)
+
+![Screenshot (42)](https://github.com/HsienHung/Hackathon_2/assets/96227834/319f1329-0c9c-4c91-9f7f-c2da603dab26)
+
+![Screenshot (43)](https://github.com/HsienHung/Hackathon_2/assets/96227834/c6f84fcd-8f68-4418-96f1-6ece5ef0fd2e)
+
+![Screenshot (44)](https://github.com/HsienHung/Hackathon_2/assets/96227834/ccfc2a94-da8f-4682-9958-78163b449dd4)
+
+![Screenshot (45)](https://github.com/HsienHung/Hackathon_2/assets/96227834/bc888c82-7113-4efb-b7cf-2153b7166940)
+
+![Screenshot (46)](https://github.com/HsienHung/Hackathon_2/assets/96227834/61f89e9f-da4b-481b-9bd7-453b45bb56bd)
+
+![Screenshot (47)](https://github.com/HsienHung/Hackathon_2/assets/96227834/a0c400c1-6e89-467f-84f8-ce721e702567)
+
+![Screenshot (48)](https://github.com/HsienHung/Hackathon_2/assets/96227834/ff7295ef-8bce-4381-ac6c-522370fa1628)
+
+![Screenshot (49)](https://github.com/HsienHung/Hackathon_2/assets/96227834/23a00096-6a4f-4f91-94d5-d6e397c30a11)
+
+![Screenshot (50)](https://github.com/HsienHung/Hackathon_2/assets/96227834/aec7cbee-6af0-4373-9af7-f4dfa9f85a99)
+
+![Screenshot (51)](https://github.com/HsienHung/Hackathon_2/assets/96227834/fe467d94-fad4-4798-ac89-0da53c6608dc)
+
+![Screenshot (52)](https://github.com/HsienHung/Hackathon_2/assets/96227834/83c20a74-c7ce-4500-a045-e671efb11609)
+
+![Screenshot (53)](https://github.com/HsienHung/Hackathon_2/assets/96227834/3fdceafd-7d69-41aa-94df-cd6003738ea9)
+
+![Screenshot (54)](https://github.com/HsienHung/Hackathon_2/assets/96227834/791f823d-be04-45af-a3d9-128ac7ce9844)
+
+![Screenshot (55)](https://github.com/HsienHung/Hackathon_2/assets/96227834/360fa86f-71c0-4d54-a795-c90cf9d7d43c)
+
+![Screenshot (56)](https://github.com/HsienHung/Hackathon_2/assets/96227834/66c7a121-56d9-4410-90a2-caa3bc8ff968)
+
+![Screenshot (57)](https://github.com/HsienHung/Hackathon_2/assets/96227834/2b1aacfe-ec28-4f8f-9e65-630ae04b7fc9)
+
+![Screenshot (58)](https://github.com/HsienHung/Hackathon_2/assets/96227834/14f05561-11b9-4dc9-9173-d4de988c8c3e)
+
+![Screenshot (59)](https://github.com/HsienHung/Hackathon_2/assets/96227834/796dc0c6-365f-4ef6-8db9-460a5d1cd83f)
+
+![Screenshot (60)](https://github.com/HsienHung/Hackathon_2/assets/96227834/6cdc1d4a-19f0-4a20-86f8-a8e67821e08f)
+
+![Screenshot (61)](https://github.com/HsienHung/Hackathon_2/assets/96227834/c648f555-bf8d-48e8-8e98-9e4ed264b3f4)
+
+![Screenshot (62)](https://github.com/HsienHung/Hackathon_2/assets/96227834/a5de9558-57d4-49fb-82b5-c9562b3a351e)
+
+![Screenshot (63)](https://github.com/HsienHung/Hackathon_2/assets/96227834/97038abc-7f8b-47d5-ade1-e26d40a4d2ed)
 
 
-![download](https://github.com/HsienHung/Hackathon_2/assets/96227834/74c57a6f-acb8-4f46-b3b5-232ef1540dcf)
+
+
+
 ## Link to a game demo video.
 https://youtu.be/ksZhjoXKVP0
 
